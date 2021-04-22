@@ -1,4 +1,4 @@
-#👋 Hello World!
+👋 Hello World!
 
 I'm @carlesloriente, and here are a few things I'm interesed on:
 
