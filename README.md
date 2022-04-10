@@ -5,6 +5,7 @@ I'm @carlesloriente, and here are a few things I'm interesed on:
 - Software Deployment
 - Continuous Integration
 - Continuous Delivery
+- Cloud Infrastructure
 - Cloud Applications
 - System Architecture
 
