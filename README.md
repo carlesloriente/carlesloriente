@@ -12,7 +12,7 @@ I'm @carlesloriente, and here are a few things I'm interested on:
 
 I'm currently working on:
 
-- Notes on cloud infrastructure https://carlesloriente.github.io/
+- onlyfy https://www.onlyfy.com
 - Meiditizi https://www.meiditizi.com/
 
 <!---
