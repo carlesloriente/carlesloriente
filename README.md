@@ -1,12 +1,12 @@
-![background](https://media-exp1.licdn.com/dms/image/C5116AQFvEBn_P734sg/profile-displaybackgroundimage-shrink_350_1400/0/1581129005587?e=1623888000&v=beta&t=xi-YD0w212NY3Kaj_AkxTQJ9sYCDBjaI29eKh8OM5A4)
+# 👋 Hello World
 
-## 👋 Hello World
+![background](https://www.notesoncloudcomputing.com/assets/images/bg-index.jpg)
 
 I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https://github.com/new-work).
 
 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader)
 
-## I'm interested on
+** 💻 I'm interested on
 
 • Software Deployment
 • Continuous Integration
@@ -16,7 +16,7 @@ I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https:
 • Cloud Native Applications
 • System Architecture
 
-## 💻 My daily toys
+** 🎮 Daily toys
 
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=plastic)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
