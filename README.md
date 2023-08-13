@@ -2,7 +2,7 @@
 
 ## 👋 Hello World
 
-I'm @carlesloriente, currently working at New Work SE as a Technical Director of Engineering.
+I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https://github.com/new-work).
 
 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader)
 
