@@ -4,7 +4,7 @@ I'm Carles, a Technical Director of Engineering at [New Work SE](https://github.
 
 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader)
 
-Experienced in 💻;
+**Experienced in** 💻
 
 - Software Deployment
 - Continuous Integration
