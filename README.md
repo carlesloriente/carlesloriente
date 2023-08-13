@@ -1,10 +1,10 @@
 # Hello World 👋
 
-I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https://github.com/new-work).
+I'm Carles, a Technical Director of Engineering at [New Work SE](https://github.com/new-work).
 
 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader)
 
-** I'm interested in 💻
+Experienced in 💻;
 
 - Software Deployment
 - Continuous Integration
