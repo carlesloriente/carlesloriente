@@ -4,14 +4,14 @@ I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https:
 
 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader)
 
-**I'm interested on 💻
+** I'm interested in 💻
 
 - Software Deployment
 - Continuous Integration
 - Continuous Delivery
 - Cloud Adoption
 - Cloud Infrastructure
-- Cloud Native Applications
+- Cloud-Native Applications
 - System Architecture
 
 ## Daily toys 🎮
