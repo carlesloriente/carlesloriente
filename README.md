@@ -1,22 +1,20 @@
-# 👋 Hello World
-
-![background](https://www.notesoncloudcomputing.com/assets/images/bg-index.jpg)
+# Hello World 👋
 
 I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https://github.com/new-work).
 
 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader)
 
-** 💻 I'm interested on
+**I'm interested on 💻
 
-• Software Deployment
-• Continuous Integration
-• Continuous Delivery
-• Cloud Adoption
-• Cloud Infrastructure
-• Cloud Native Applications
-• System Architecture
+- Software Deployment
+- Continuous Integration
+- Continuous Delivery
+- Cloud Adoption
+- Cloud Infrastructure
+- Cloud Native Applications
+- System Architecture
 
-** 🎮 Daily toys
+## Daily toys 🎮
 
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=plastic)
 ![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=plastic)
@@ -27,7 +25,7 @@ I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https:
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![GoLand Badge](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=plastic)
 
-### 📰 Last code snippets
+## Last code snippets 📰
 
 <!-- blog starts -->
 [Clear local cache using terminal](https://www.notesoncloudcomputing.com/clear/flushcache/mdnsresponder/2023/08/06/flushcache-and-kill-mDNSResponder.html) - 2023-08-06
@@ -43,3 +41,5 @@ I'm @carlesloriente, a Technical Director of Engineering at [New Work SE](https:
 <!-- blog ends -->
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
+
+![background](https://www.notesoncloudcomputing.com/assets/images/bg-index.jpg)
