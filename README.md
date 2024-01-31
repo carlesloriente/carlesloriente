@@ -28,6 +28,8 @@ I'm Carles, a Technical Director of Engineering at [New Work SE](https://github.
 ## Last code snippets 📰
 
 <!-- blog starts -->
+[Release of sign-kernel-modules-secureboot v0.1](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/v0.1/2024/01/31/sign-kernel-modules-v0.1-release.html) - 2024-01-31
+
 [How to sign kernel modules for SecureBoot in Virtualbox](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/2024/01/30/virtualbox-signing-kernel-modules-secureboot.html) - 2024-01-30
 
 [Clear local cache using terminal](https://www.notesoncloudcomputing.com/clear/flushcache/mdnsresponder/2023/08/06/flushcache-and-kill-mDNSResponder.html) - 2023-08-06
