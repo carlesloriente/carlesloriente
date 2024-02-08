@@ -6,7 +6,7 @@ I'm highly experienced in Cloud infrastructure, Architecture, Software Developme
 
 Developing and managing security, reliability, scalability, performance, and Compliance projects with PCI DSS, VdS 10000, ISO 27001, or GDPR certifications.
 
-💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader) | [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
+💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | 🐦 [Twitter](https://twitter.com/godarthvader) | 🕸️ [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
 
 **Experienced in** 💻
 
