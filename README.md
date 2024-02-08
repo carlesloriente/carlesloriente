@@ -1,10 +1,12 @@
 # Hello World 👋
 
-I'm Carles, I have over 15 years of experience leading platform engineering adoption, infrastructure strategy development, designing cloud operation models and adoption strategies and setting engineering standards for large software projects.
+I have over 15 years of experience leading platform engineering adoption, infrastructure strategy development, designing cloud operation models and adoption strategies, DevOps culture, and setting engineering standards for large software projects and transforming companies into high-performing organizations.
 
 I'm highly experienced in Cloud infrastructure, Architecture, Software Development, Deployment, Continuous Integration and Continuous Delivery, Cloud Applications, Cloud Migrations, Micro Services, Server Less, System Architecture, Monitoring, Observability, Automation, Governance and Cloud Computing.
 
 Developing and managing security, reliability, scalability, performance, and Compliance projects with PCI DSS, VdS 10000, ISO 27001, or GDPR certifications.
+
+Leading and managing the Cloud Infrastructure architecture of SaaS products for the world's most popular furnishing brand.
 
 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | 🐦 [Twitter](https://twitter.com/godarthvader) | 🕸️ [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
 
