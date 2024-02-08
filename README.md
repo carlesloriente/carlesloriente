@@ -1,8 +1,14 @@
 # Hello World 👋
 
-I'm Carles, a Technical Director of Engineering at [New Work SE](https://github.com/new-work).
+I'm Carles, I have more than ten years of experience leading platform engineering, infrastructure strategy development, designing cloud operation models, cloud adoption strategies and setting standards for large software projects.
 
-💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader)
+I'm highly experienced in Cloud infrastructure, Software Development, Deployment, Continuous Integration and Continuous Delivery, Cloud Applications, Cloud Migrations, Micro Services, Server Less, System Architecture, Monitoring, Observability, Automation, Governance and Cloud Computing in general.
+
+Developing and managing Security, Reliability, Scalability, Performance and Compliant projects with PCI DSS, VdS 10000, ISO 27001 or GDPR certifications.
+
+Leading and managing the Cloud Infrastructure architecture of SaaS products for the world most popular furnishing brand
+
+💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | [Twitter](https://twitter.com/godarthvader) | [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
 
 **Experienced in** 💻
 
