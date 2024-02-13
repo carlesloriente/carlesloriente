@@ -34,6 +34,8 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ## Last code snippets 📰
 
 <!-- blog starts -->
+[When attributes shine: Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/cloud-securyty/opa/zanzibar/fine-grained/authorisation/2024/02/13/fine-grained-authorisation-for-cloud-applications/) - 2024-02-13
+
 [Release of sign-kernel-modules-secureboot v0.1](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/v0.1/2024/01/31/sign-kernel-modules-v0.1-release.html) - 2024-01-31
 
 [How to sign kernel modules for SecureBoot in Virtualbox](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/2024/01/30/virtualbox-signing-kernel-modules-secureboot.html) - 2024-01-30
