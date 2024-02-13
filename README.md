@@ -36,19 +36,19 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 <!-- blog starts -->
 [When attributes shine: Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/cloud-securyty/opa/zanzibar/fine-grained/authorisation/2024/02/13/fine-grained-authorisation-for-cloud-applications/) - 2024-02-13
 
-[Release of sign-kernel-modules-secureboot v0.1](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/v0.1/2024/01/31/sign-kernel-modules-v0.1-release.html) - 2024-01-31
+[Release of sign-kernel-modules-secureboot v0.1](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/v0.1/2024/01/31/sign-kernel-modules-v0.1-release/) - 2024-01-31
 
-[How to sign kernel modules for SecureBoot in Virtualbox](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/2024/01/30/virtualbox-signing-kernel-modules-secureboot.html) - 2024-01-30
+[How to sign kernel modules for SecureBoot in Virtualbox](https://www.notesoncloudcomputing.com/virtualbox/virtualization/kernel-modules/signing/certificates/uefi/2024/01/30/virtualbox-signing-kernel-modules-secureboot/) - 2024-01-30
 
-[Clear local cache using terminal](https://www.notesoncloudcomputing.com/clear/flushcache/mdnsresponder/2023/08/06/flushcache-and-kill-mDNSResponder.html) - 2023-08-06
+[Clear local cache using terminal](https://www.notesoncloudcomputing.com/clear/flushcache/mdnsresponder/2023/08/06/flushcache-and-kill-mDNSResponder/) - 2023-08-06
 
-[Fix Brew stuck/hangs updating in MacOs](https://www.notesoncloudcomputing.com/fix/brew/update/stuck/cli/macos/2023/08/05/fix-brew-stuck-updating.html) - 2023-08-05
+[Fix Brew stuck/hangs updating in MacOs](https://www.notesoncloudcomputing.com/fix/brew/update/stuck/cli/macos/2023/08/05/fix-brew-stuck-updating/) - 2023-08-05
 
-[Configure a IKEv2 RoadWarrior VPN connection using p12 certificate on Fedora 31+](https://www.notesoncloudcomputing.com/fedora/vpn/ikev2/2021/04/24/configure-ikev2-vpn-connection-fedora.html) - 2021-04-24
+[Configure a IKEv2 RoadWarrior VPN connection using p12 certificate on Fedora 31+](https://www.notesoncloudcomputing.com/fedora/vpn/ikev2/2021/04/24/configure-ikev2-vpn-connection-fedora/) - 2021-04-24
 
-[Configure a VPN server using IKEv2 IPSec with certificates on Mikrotik RouterOS](https://www.notesoncloudcomputing.com/routeros/mikrotik/vpn/2021/04/23/configure-vpn-server-ikev2-ipsec-with-certificates-mikrotik-routeros.html) - 2021-04-23
+[Configure a VPN server using IKEv2 IPSec with certificates on Mikrotik RouterOS](https://www.notesoncloudcomputing.com/routeros/mikrotik/vpn/2021/04/23/configure-vpn-server-ikev2-ipsec-with-certificates-mikrotik-routeros/) - 2021-04-23
 
-[Configure a VPN server using L2TP IPSec with Mikrotik RouterOS](https://www.notesoncloudcomputing.com/routeros/mikrotik/vpn/2020/08/02/configure-vpn-server-l2tp-ipsec-mikrotik-routeros.html) - 2020-08-02
+[Configure a VPN server using L2TP IPSec with Mikrotik RouterOS](https://www.notesoncloudcomputing.com/routeros/mikrotik/vpn/2020/08/02/configure-vpn-server-l2tp-ipsec-mikrotik-routeros/) - 2020-08-02
 
 <!-- blog ends -->
 
