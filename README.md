@@ -31,7 +31,7 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![GoLand Badge](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=plastic)
 
-## Last code snippets and articles 📰
+## Notes on Cloud Computing - Last five entries 📰
 
 <!-- blog starts -->
 [When attributes shine: Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/cloud-securyty/opa/zanzibar/fine-grained/authorisation/2024/02/13/fine-grained-authorisation-for-cloud-applications/) - 2024-02-13
@@ -43,12 +43,6 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 [Clear local cache using terminal](https://www.notesoncloudcomputing.com/clear/flushcache/mdnsresponder/2023/08/06/flushcache-and-kill-mDNSResponder/) - 2023-08-06
 
 [Fix Brew stuck/hangs updating in MacOs](https://www.notesoncloudcomputing.com/fix/brew/update/stuck/cli/macos/2023/08/05/fix-brew-stuck-updating/) - 2023-08-05
-
-[Configure a IKEv2 RoadWarrior VPN connection using p12 certificate on Fedora 31+](https://www.notesoncloudcomputing.com/fedora/vpn/ikev2/2021/04/24/configure-ikev2-vpn-connection-fedora/) - 2021-04-24
-
-[Configure a VPN server using IKEv2 IPSec with certificates on Mikrotik RouterOS](https://www.notesoncloudcomputing.com/routeros/mikrotik/vpn/2021/04/23/configure-vpn-server-ikev2-ipsec-with-certificates-mikrotik-routeros/) - 2021-04-23
-
-[Configure a VPN server using L2TP IPSec with Mikrotik RouterOS](https://www.notesoncloudcomputing.com/routeros/mikrotik/vpn/2020/08/02/configure-vpn-server-l2tp-ipsec-mikrotik-routeros/) - 2020-08-02
 
 <!-- blog ends -->
 
