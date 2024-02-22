@@ -31,7 +31,7 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![GoLand Badge](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=plastic)
 
-## Notes on Cloud Computing - Last five entries 📰
+## Notes on Cloud Computing - Recent notes 📰
 
 <!-- blog starts -->
 [When attributes shine: Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/cloud-securyty/opa/zanzibar/fine-grained/authorisation/2024/02/13/fine-grained-authorisation-for-cloud-applications/) - 2024-02-13
