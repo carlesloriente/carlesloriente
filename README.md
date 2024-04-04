@@ -48,4 +48,4 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
 
-![background](https://www.notesoncloudcomputing.com/assets/images/bg-index.jpg)
+![background](https://www.notesoncloudcomputing.com/assets/vendor/nocc-bootstrap-theme/images/nocc/nocc-showcase.webp)
