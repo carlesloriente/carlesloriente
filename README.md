@@ -34,6 +34,8 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ## Notes on Cloud Computing - Recent notes 📰
 
 <!-- blog starts -->
+[NOCC Bootstrap Theme Major Release v1](https://www.notesoncloudcomputing.com/posts/2024-04-09-nocc-bootstrap-theme-major-release-v1/) - 2024-04-09
+
 [When attributes shine: Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/posts/2024-02-13-fine-grained-authorisation-for-cloud-applications/) - 2024-02-13
 
 [Release of sign-kernel-modules-secureboot v0.1](https://www.notesoncloudcomputing.com/posts/2024-01-31-sign-kernel-modules-v0-1-release/) - 2024-01-31
