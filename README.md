@@ -8,17 +8,18 @@ Developing and managing security, reliability, scalability, performance, and Com
 
 Leading and managing the Cloud Infrastructure architecture of SaaS products for the world's most popular furnishing brand.
 
-💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | 🐦 [Twitter](https://twitter.com/godarthvader) | 🕸️ [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
+**Social:** 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | 🐦 [Twitter](https://twitter.com/godarthvader) | 🕸️ [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
+
+**Side projects:** 📦 [NOCC Bootstrap Theme - npm](https://www.npmjs.com/package/nocc-bootstrap-theme/)
 
 **Experienced in** 💻
 
-- Software Deployment
-- Continuous Integration
-- Continuous Delivery
 - Cloud Adoption
 - Cloud Infrastructure
+- CI/CD
 - Cloud-Native Applications
-- System Architecture
+- Software Deployment
+- High Availability and Reliability
 
 ## Daily toys 🎮
 
@@ -33,21 +34,18 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 
 ## Notes on Cloud Computing - Recent notes 📰
 
-<!-- blog starts -->
-[NOCC Bootstrap Theme Major Release v1](https://www.notesoncloudcomputing.com/posts/2024-04-09-nocc-bootstrap-theme-major-release-v1/) - 2024-04-09
-
-[When attributes shine: Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/posts/2024-02-13-fine-grained-authorisation-for-cloud-applications/) - 2024-02-13
-
-[Release of sign-kernel-modules-secureboot v0.1](https://www.notesoncloudcomputing.com/posts/2024-01-31-sign-kernel-modules-v0-1-release/) - 2024-01-31
-
-[How to sign kernel modules for SecureBoot in Virtualbox](https://www.notesoncloudcomputing.com/posts/2024-01-30-virtualbox-signing-kernel-modules-secureboot/) - 2024-01-30
-
-[Clear local cache using terminal](https://www.notesoncloudcomputing.com/posts/2023-08-06-flushcache-and-kill-mdnsresponder/) - 2023-08-06
-
-[Fix Brew stuck/hangs updating in MacOs](https://www.notesoncloudcomputing.com/posts/2023-08-05-fix-brew-stuck-updating/) - 2023-08-05
-
-<!-- blog ends -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
 
 ![background](https://www.notesoncloudcomputing.com/assets/vendor/nocc-bootstrap-theme/images/nocc/nocc-showcase.webp)
+
+<!-- Stats -->
+<details>
+
+<summary>Click for GitHub Stats</summary>
+
+![Carles Loriente's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlesloriente&show_icons=true&rank_icon=github&theme=transparent)
+
+</details>
