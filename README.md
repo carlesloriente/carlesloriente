@@ -32,6 +32,10 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![GoLand Badge](https://img.shields.io/badge/GoLand-000?logo=goland&logoColor=fff&style=plastic)
 
+## Profile views 📈
+
+[![Image of https://github.com/carlesloriente/profile-stats](https://github.com/carlesloriente/profile-stats/blob/master/svg/profile/badge.svg)](https://github.com/carlesloriente/profile-stats)
+
 ## Notes on Cloud Computing - Recent notes 📰
 
 <!-- BLOG-POST-LIST:START -->
