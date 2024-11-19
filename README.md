@@ -39,11 +39,11 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ## Notes on Cloud Computing - Recent notes 📰
 
 <!-- BLOG-POST-LIST:START -->
+- [Passwordsafe a secure password manager free open source and multiplatform](https://www.notesoncloudcomputing.com/posts/2024-11-19-passwordsafe-a-secure-password-manager-free-open-source-and-multiplatform/)
+- [How to install MacOS on Linux with Sosumi](https://www.notesoncloudcomputing.com/posts/2024-11-18-how-to-install-and-run-macos-on-linux/)
+- [How to install Snap on Fedora](https://www.notesoncloudcomputing.com/posts/2024-11-17-how-to-install-snap-on-fedora/)
 - [NOCC Bootstrap Theme Major Release v1](https://www.notesoncloudcomputing.com/posts/2024-04-09-nocc-bootstrap-theme-major-release-v1/)
 - [Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/posts/2024-02-13-fine-grained-authorisation-for-cloud-applications/)
-- [Release of sign-kernel-modules-secureboot v0.1](https://www.notesoncloudcomputing.com/posts/2024-01-31-sign-kernel-modules-v0-1-release/)
-- [How to sign kernel modules for SecureBoot in Virtualbox](https://www.notesoncloudcomputing.com/posts/2024-01-30-virtualbox-signing-kernel-modules-secureboot/)
-- [Clear local cache using terminal](https://www.notesoncloudcomputing.com/posts/2023-08-06-flushcache-and-kill-mdnsresponder/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
