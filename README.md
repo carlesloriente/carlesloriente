@@ -39,11 +39,11 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ## Notes on Cloud Computing - Recent notes 📰
 
 <!-- BLOG-POST-LIST:START -->
+- [Improve your Jekyll site ranking &lpar;SEO&rpar; turning into PWA](https://www.notesoncloudcomputing.com/posts/2024-11-21-improve-site-ranking-seo-enabling-pwa-on-jekyll/)
 - [Passwordsafe a secure password manager free open source and multiplatform](https://www.notesoncloudcomputing.com/posts/2024-11-19-passwordsafe-a-secure-password-manager-free-open-source-and-multiplatform/)
 - [How to install MacOS on Linux with Sosumi](https://www.notesoncloudcomputing.com/posts/2024-11-18-how-to-install-and-run-macos-on-linux/)
 - [How to install Snap on Fedora](https://www.notesoncloudcomputing.com/posts/2024-11-17-how-to-install-snap-on-fedora/)
 - [NOCC Bootstrap Theme Major Release v1](https://www.notesoncloudcomputing.com/posts/2024-04-09-nocc-bootstrap-theme-major-release-v1/)
-- [Fine-grained authorisation for cloud applications](https://www.notesoncloudcomputing.com/posts/2024-02-13-fine-grained-authorisation-for-cloud-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
