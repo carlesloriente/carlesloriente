@@ -39,11 +39,11 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ## Notes on Cloud Computing - Recent notes 📰
 
 <!-- BLOG-POST-LIST:START -->
+- [Calling All Jekyll Enthusiasts: BestJekyllThemes Has Landed!](https://www.notesoncloudcomputing.com/posts/2024-12-13-best-jekyll-themes/)
 - [Indexing new pages using IndexNow and cURL](https://www.notesoncloudcomputing.com/posts/2024-12-06-indexing-pages-with-indexnow-and-curl/)
 - [Auto-indexing URLs with IndexNow &amp;amp; GitHub Actions](https://www.notesoncloudcomputing.com/posts/2024-11-22-auto-indexing-urls-with-indexnow-and-github-actions/)
 - [Improve your Jekyll site ranking &lpar;SEO&rpar; turning into PWA](https://www.notesoncloudcomputing.com/posts/2024-11-21-improve-site-ranking-seo-enabling-pwa-on-jekyll/)
 - [Passwordsafe a secure password manager](https://www.notesoncloudcomputing.com/posts/2024-11-19-passwordsafe-a-secure-password-manager-free-open-source-and-multiplatform/)
-- [How to install MacOS on Linux with Sosumi](https://www.notesoncloudcomputing.com/posts/2024-11-18-how-to-install-and-run-macos-on-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
