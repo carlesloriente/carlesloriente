@@ -10,7 +10,9 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 
 **Social:** 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | 🐦 [Twitter](https://twitter.com/godarthvader) | 🕸️ [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
 
-**Side projects:** 📦 [NOCC Bootstrap Theme - npm](https://www.npmjs.com/package/nocc-bootstrap-theme/)
+**Side projects:**
+
+ 📦 [NOCC Bootstrap Theme - npm](https://www.npmjs.com/package/nocc-bootstrap-theme/) | 🐘 [BestJekyllThemes](https://www.bestjekyllthemes.site/)
 
 **Experienced in** 💻
 
