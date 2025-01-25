@@ -39,11 +39,11 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ## Notes on Cloud Computing - Recent notes 📰
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions for Updating Git Submodules in Private Repos](https://www.notesoncloudcomputing.com/posts/2025-01-25-synchronizing-git-private-projects-with-public-repositories/)
 - [Announcing the Release of TopJekyllThemes v2](https://www.notesoncloudcomputing.com/posts/2025-01-14-top-jekyll-themes-v2-2-3-released/)
 - [BestJekyllThemes has been moved to TopJekyllThemes](https://www.notesoncloudcomputing.com/posts/2025-01-13-best-jekyll-themes-is-now-top-jekyll-themes/)
 - [Domain Name Dilemma: Avoiding Common Pitfalls](https://www.notesoncloudcomputing.com/posts/2025-01-08-choosing-the-right-domain-name/)
 - [Calling All Jekyll Enthusiasts: BestJekyllThemes Has Landed!](https://www.notesoncloudcomputing.com/posts/2024-12-13-best-jekyll-themes/)
-- [Indexing new pages using IndexNow and cURL](https://www.notesoncloudcomputing.com/posts/2024-12-06-indexing-pages-with-indexnow-and-curl/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
