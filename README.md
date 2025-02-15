@@ -10,8 +10,6 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 
 **Social:** 💬 [LinkedIn](https://www.linkedin.com/in/carlesloriente/) | 🐦 [Twitter](https://twitter.com/godarthvader) | 🕸️ [Notes on Cloud Computing](https://www.notesoncloudcomputing.com/)
 
-**Side projects:** 💎 [Theme Jekyll Nocc - gem](https://rubygems.org/gems/jekyll-theme-nocc) | 🐘 [TopJekyllThemes](https://www.topjekyllthemes.com/) | 📦 [NOCC Bootstrap Theme - npm](https://www.npmjs.com/package/nocc-bootstrap-theme/) | 🌐 [NOCC Jekyll Bundle](https://bootstrap-theme.notesoncloudcomputing.com/)
-
 **Experienced in** 💻
 
 - Cloud Adoption
@@ -20,6 +18,13 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 - Cloud-Native Applications
 - Software Deployment
 - High Availability and Reliability
+
+## Side projects 🎉
+
+- **💎 [Theme Jekyll Nocc](https://rubygems.org/gems/jekyll-theme-nocc)**: A Ruby gem that brings the power of NOCC directly to your Jekyll project.
+- **🌟 [Nocc Bootstrap Theme](https://www.npmjs.com/package/nocc-bootstrap-theme)**: An NPM Package that brings the power of NOCC directly to your NodeJS project.
+- **🌐 [Full Site Bundle for Jekyll](https://github.com/carlesloriente/bootstrap-theme-jekyll)**: A complete static website showcasing NOCC's seamless integration. Featuring a beautifully designed homepage, dynamic tag cloud, image gallery, and more.
+- **🐘 [TopJekyllThemes.com](https://www.topjekyllthemes.com/)**: Find top-quality Jekyll templates for static and dynamic websites.
 
 ## Daily toys 🎮
 
