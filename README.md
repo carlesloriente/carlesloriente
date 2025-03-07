@@ -44,11 +44,11 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 ## Notes on Cloud Computing - Recent notes 📰
 
 <!-- BLOG-POST-LIST:START -->
+- [How to install Ladybird on Fedora](https://www.notesoncloudcomputing.com/posts/2025-03-07-how-to-install-ladybird-on-fedora/)
 - [Fixing error libruby.so.3.2: cannot open shared object file: No such file or directory](https://www.notesoncloudcomputing.com/posts/2025-02-26-fixing-error-librubyso-3-2/)
 - [Make your GitHub Profile shine with dynamic updates](https://www.notesoncloudcomputing.com/posts/2025-01-26-make-a-dynamic-github-profile-with-github-actions/)
 - [GitHub Actions for Updating Git Submodules in Private Repos](https://www.notesoncloudcomputing.com/posts/2025-01-25-synchronizing-git-private-projects-with-public-repositories/)
 - [Announcing the Release of TopJekyllThemes v2](https://www.notesoncloudcomputing.com/posts/2025-01-14-top-jekyll-themes-v2-2-3-released/)
-- [BestJekyllThemes has been moved to TopJekyllThemes](https://www.notesoncloudcomputing.com/posts/2025-01-13-best-jekyll-themes-is-now-top-jekyll-themes/)
 <!-- BLOG-POST-LIST:END -->
 
 More on [notesoncloudcomputing.com](https://www.notesoncloudcomputing.com/)
