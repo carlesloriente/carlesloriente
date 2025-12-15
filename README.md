@@ -21,8 +21,9 @@ Leading and managing the Cloud Infrastructure architecture of SaaS products for 
 
 ## Side projects 🎉
 
+- **📦 [Yet Another Github Card](https://yagc.nocc.dev)**: Beautiful, customizable GitHub stats cards for your portfolio and blog, distributed as an [📦 NPM Package](https://www.npmjs.com/package/yet-another-github-card).
 - **💎 [Theme Jekyll Nocc](https://rubygems.org/gems/jekyll-theme-nocc)**: A Ruby gem that brings the power of NOCC directly to your Jekyll project.
-- **🌟 [Nocc Bootstrap Theme](https://www.npmjs.com/package/nocc-bootstrap-theme)**: An NPM Package that brings the power of NOCC directly to your NodeJS project.
+- **🌟 [Nocc Bootstrap Theme](https://bootstrap-theme.notesoncloudcomputing.com/)**: An [📦 NPM Package](https://www.npmjs.com/package/nocc-bootstrap-theme) that brings the power of NOCC directly to your NodeJS project.
 - **🌐 [Full Site Bundle for Jekyll](https://github.com/carlesloriente/bootstrap-theme-jekyll)**: A complete static website showcasing NOCC's seamless integration. Featuring a beautifully designed homepage, dynamic tag cloud, image gallery, and more.
 - **🐘 [TopJekyllThemes.com](https://www.topjekyllthemes.com/)**: Find top-quality Jekyll templates for static and dynamic websites.
 
